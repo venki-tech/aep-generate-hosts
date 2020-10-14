@@ -7,4 +7,4 @@ dbos=ub
 typeapp=app
 typeweb=web
 typedb=db
-numberinuse=03
+numberinuse=01
