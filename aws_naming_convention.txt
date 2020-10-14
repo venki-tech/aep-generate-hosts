@@ -1,0 +1,11 @@
+#naming convention for AWS hosts
+type=aws
+env=dev
+webos=rh
+appos=ub
+dbos=ub
+typeapp=app
+typeweb=web
+typedb=db
+startnumber=01
+endnumber=99
