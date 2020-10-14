@@ -7,5 +7,4 @@ dbos=ub
 typeapp=app
 typeweb=web
 typedb=db
-startnumber=01
-endnumber=99
+numberinuse=01
